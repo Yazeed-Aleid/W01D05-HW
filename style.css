@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(231, 231, 231);
+}
+.main{
+  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+
+    
+}
+img{
+    width: 100%;
+    height: 40%;
+    padding-bottom: 0px;
+}
+
+.card img{
+    height: 150px;
+    width: 250px;
+    
+}
+.navbar{
+    width:100% ;
+    /* .background-color:aquamarine */
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
